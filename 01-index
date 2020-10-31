@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel='icon' href='favicon.png' type=
+</head>
+<body bgcolor="#ffe6ff">
+    <h1>This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h1>This is heading 1 </h1>
+    <h2>This is heading 2 </h2>
+    <h3>This is heading 3 </h3>
+    <h4>This is heading 4 </h4>
+    <h5>This is heading 5 </h5>
+    <h6>This is heading 6 </h6>
+    <hr size=10 color=#0000FF>
+    <p>
+        <b>Lorem ipsum dolor </b>  <i>sit amet consectetur</i> <u>adipisicing elit.</u>  Dolorem sapiente commodi cum possimus quia, neque illum culpa velit quidem error totam eum dicta quo eligendi, excepturi architecto aliquid perferendis minus.
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nihil id illum architecto nam ab sequi quam ex enim amet laborum neque consectetur molestias ut sint, veniam voluptatibus eveniet expedita.
+    </p>
+
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda quaerat voluptas neque praesentium exercitationem aliquid, <br> impedit deserunt, ipsam fugiat iusto rerum soluta ut vel optio explicabo sequi sint. Eos, vitae?
+
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem nesciunt consequuntur earum laboriosam deleniti obcaecati harum quasi reprehenderit, nemo aliquid dignissimos culpa est debitis sequi commodi voluptatibus cupiditate perspiciatis. Pariatur.
+    <br> <br> <br> <br> <br> <br> <br> <br>
+
+    for i in range (10): <br>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    print(i)
+
+                  <pre>
+                    <code>
+                        for i in digits:
+                            print(i)
+                        else:
+                            print("No items left.")
+                    </code>
+
+
+                  </pre>
+
+</body>
+</html>
